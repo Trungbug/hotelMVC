@@ -1,0 +1,8 @@
+.wide-column {
+    text-align: center;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 150px;
+    padding: 20px; /* Thêm khoảng cách cho các cột */
+}
